@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroku"
+    }
+  },
+  "defaultProject": "heroku",
+  "cli": {
+    "analytics": false
+  }
 }
